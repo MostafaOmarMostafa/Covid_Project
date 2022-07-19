@@ -1,4 +1,5 @@
-# Covid_Project
+# Covid_Project 
+#### Using Microsoft Sql Server Management Studio (SSMS)
 ## Data Analysis Project 
 ### Exploration Data Using SQL Queries 
 #### In order not to talk too much about this file, here is the link that will help you more than me in knowing and processing this data.
